@@ -1,2 +1,10 @@
-PSR-4 autoloading configured. Use "namespace Jneureiter\Logger;" in src/
-Include the Composer autoloader with: require 'vendor/autoload.php';
+# Logger 
+
+A library to log data
+
+Memo:
+```php
+namespace Jneureiter\Logger;
+require 'vendor/autoload.php'
+```
+
